@@ -1,6 +1,6 @@
 # Operating Systems 2021-1
 
-[Home](index) |
+[Home](README) |
 [Week1](w01) |
 [Week2](w02) |
 [Week3](w03.md) |
@@ -9,6 +9,6 @@
 [Log](TXT/mylog.txt) |
 [GitHub](https://github.com/nofamex/os211)
 
-## About
-
-Operating System Repository For Nofaldi Fikrul Atmam
+1. [Top 10 Link Week 1](w01) <br>
+2. [Top 10 Link Week 2](w02) <br>
+3. [Top 10 Link Week 3](w03) <br>
