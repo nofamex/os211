@@ -8,7 +8,3 @@
 [Rank](TXT/myrank.txt) |
 [Log](TXT/mylog.txt) |
 [GitHub](https://github.com/nofamex/os211)
-
-1. [Top 10 Link Week 1](w01) <br>
-2. [Top 10 Link Week 2](w02) <br>
-3. [Top 10 Link Week 3](w03) <br>
