@@ -1,6 +1,6 @@
 # Operating Systems 2021-1
 
-[Home](index.md) |
+[Home]() |
 [Week1](W01/) |
 [Week2](W02/) |
 [Week3](W03/) |
