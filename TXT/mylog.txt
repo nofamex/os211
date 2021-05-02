@@ -50,3 +50,9 @@ ZCZC W06 100 L05 GSGS related
 ZCZC W06 120 L08 Trying something
 ZCZC W06 100 L26 Movie: relax, etc.
 ZCZC W06 120 L27 Pets: feeding, playing, etc.
+ZCZC W07 60 L01 SCELE related
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07 120 L05 GSGS related
+ZCZC W07 120 L25 C-language: study, etc.
+ZCZC W07 60 L23 Discord: discussion, etc.
+ZCZC W07 120 L22 YouTube: study, etc.
